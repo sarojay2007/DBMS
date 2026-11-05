@@ -1,0 +1,7 @@
+create database PRO;
+use PRO;
+create table PROFESSOR (
+PROFID int,
+PROFNAME varchar(25),
+DEPARTMENT varchar(25),
+P
